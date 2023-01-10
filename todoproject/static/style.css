@@ -1,0 +1,17 @@
+body{
+background-color:Coral
+}
+.banner{
+background-color:Tomato;
+color:white;
+width:100%;
+height:200px;
+margin-bottom:50px;
+}
+.banner-name{
+font-size:2.5em;
+top:45%;
+left:45%;
+position:absolute;
+transform:transform;
+}
